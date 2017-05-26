@@ -1,0 +1,21 @@
+<navbar> </navbar>
+
+<div *ngFor="let post of postObjects">
+    <div *ngIf="(post.type == 'lesson')">
+
+    <div class="post-text">
+        <h3><b>{{post.title}}</b></h3>
+        <h4>{{post.created | date: 'MM/dd/yy'}} {{post.created | date: 'HH:mm' }} by {{post.username}} </h4>
+        <p>{{post.content}} </p>
+        <hr>
+        <p> <img id="heart" src="/assets/images/heart.png" alt="Smiley face" height="20" width="20">{{post.likes}} </p>
+                    <h4>Comments</h4>
+        <div class = "comment-text">
+        <p> {{post.comment}} </p>
+           <label> <br><input #newComment/></label><br>
+               <button (click) = "createPost(postTitle.value, postContent.value); postTitle.value= ''; postContent.value='';">Commment</button>
+
+        </div>
+    </div>
+    </div>
+</div>

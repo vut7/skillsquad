@@ -1,0 +1,96 @@
+[
+{
+  "title": "Standing on One Foot",
+  	"type":"assigment",
+    "content": "This week you will pratice your balance by standing on one foot at a time.",
+    "created": "05-01-2017",
+    "username":"lindyhopping",
+    "comment":["That's great!"],
+    "likes":2
+    },
+    {
+    "title": "Triple Step Drills",
+  	"type":"assigment",
+    "content": "This week you will practice your triple steps by alternating with foot you have in front of you.",
+    "created": "05-08-2017",
+    "username":"lindyhopping",
+    "comment":["That's great!"],
+    "likes":2
+    },
+    {
+    "title": "Pluse Exercises",
+  	"type":"assigment",
+    "content": "This week you will practice your pulse by recording your footwork to different tempos of music.",
+    "created": "05-21-2017",
+    "username":"lindyhopping",
+    "comment":["That's great!"],
+    "likes":2
+    },
+    
+    {
+    "title": "Lesson 1 - How to dance",
+  	"type":"lesson",
+    "content": "Lift your arms in the air, and wave them like you just don't care!",
+    "created": "05-01-2017",
+    "username":"lindyhopping",
+    "comment":["That's great!"],
+    "likes":2
+    },
+        {
+    "title": "Lesson 2 - Dancing to music",
+  	"type":"lesson",
+    "content": "Feel the rythmn of the music in your soul. Now wave your arms to the rythmn",
+    "created": "05-07-2017",
+    "username":"lindyhopping",
+    "comment":["That's great!"],
+    "likes":2
+    },
+        {
+    "title": "Lesson 3 - Dancing with a friend",
+  	"type":"lesson",
+    "content": "Aquire a friend, now wave your arms together",
+    "created": "05-21-2017",
+    "username":"lindyhopping",
+    "comment":["That's great!"],
+    "likes":2
+    },
+    
+       {
+    "title": "Lunch anyone?",
+  	"type":"post",
+    "content": "Who wants to go to lunch with me?",
+    "created": "05-21-2017",
+    "username":"clarebear",
+    "comment":["That's great!"],
+    "likes":2
+    },
+           {
+    "title": "Submission 1",
+  	"type":"submission",
+    "content": "I had a great time waving my hands in the air!",
+    "created": "05-21-2017",
+    "username":"tuttybooty",
+    "comment":["That's great!"],
+    "likes":2
+    },
+    
+       {
+    "title": "Submission 1",
+  	"type":"submission",
+    "content": "I was ok, i didn't really like waving my hands that much.",
+    "created": "05-21-2017",
+    "username":"dancypants",
+    "comment":["That's great!"],
+    "likes":2
+    },
+    
+    {
+    "title": "I want to more ",
+  	"type":"post",
+    "content": "Do people have recommendations for dancing?",
+    "created": "05-21-2017",
+    "username":"dancypants",
+    "comment":["That's great!"],
+    "likes":2
+    }
+]

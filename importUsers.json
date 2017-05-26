@@ -1,0 +1,42 @@
+[
+    {
+        "user_type": "Instructor", 
+        "first_name": "Ben", 
+        "last_name": "White", 
+        "email": "benwhitesemail@gmail.com", 
+        "password": "password1",
+        "class_code": "1", 
+        "created": "05-19-2017",
+        "username": "lindyhopping" 
+},
+{
+        "user_type": "Student", 
+        "first_name": "Nancy", 
+        "last_name": "Mariano", 
+        "email": "nancysemail@gmail.com", 
+        "password": "password1",
+        "class_code": "1", 
+        "created": "05-19-2017",
+        "username": "dancypants" 
+},
+{
+        "user_type": "Student" , 
+        "first_name": "Tu Trinh", 
+        "last_name": "Vu", 
+        "email": "tuttysemail@gmail.com", 
+        "password": "password1",
+        "class_code": "1", 
+        "created": "05-19-2017",
+        "username": "tuttybooty"  
+    },
+    {
+        "user_type": "Student", 
+        "first_name": "Clare", 
+        "last_name": "Mason", 
+        "email": "claresemail@gmail.com", 
+        "password": "password1",
+        "class_code": "1", 
+        "created": "05-19-2017",
+        "username": "clarebear" 
+    }
+]

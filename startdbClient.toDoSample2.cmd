@@ -1,0 +1,1 @@
+mongo --port 8080 --authenticationDatabase admin
