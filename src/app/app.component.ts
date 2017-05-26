@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app works!';
-  public userType = ""; 
+  title = 'Kittens are fuzzy';
+  public userType = "";
 
 }
 
@@ -79,5 +79,3 @@ export class AppComponent {
     }
   }
 */
-
-
