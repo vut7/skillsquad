@@ -1,6 +1,6 @@
 import { NgModule, Component, OnInit, Input } from '@angular/core';
 import { DataService } from '../data.service';
-import { Ipost } from "../../../../../interfaces/Ipost";
+import { Ipost } from "../../../interfaces/Ipost";
 
 //import { Ng2OrderModule } from 'ng2-order-pipe';
 

@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { DataService } from '../data.service';
 
-import { Ipost } from "../../../../../interfaces/Ipost";
+import { Ipost } from "../../../interfaces/Ipost";
 
 @Component({
   selector: 'lessons',

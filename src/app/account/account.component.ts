@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { DataService } from '../data.service';
-import { Iuser } from "../../../../../interfaces/Iuser";
+import { Iuser } from "../../../interfaces/Iuser";
 
 @Component({
   selector: 'app-account',
