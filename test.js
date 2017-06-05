@@ -16,7 +16,7 @@ describe('Test Home Feed results', function () {
 	var response;
 		 
     before(function (done) {
-        chai.request("http://localhost:8080")
+        chai.request("http://skillsquad.azurewebsites.net/")
 			.get("/app/posts")
 			.end(function (err, res) {
 				requestResult = res.body;
